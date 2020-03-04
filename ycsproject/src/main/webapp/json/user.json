@@ -1,0 +1,11 @@
+{
+	"code": 0,
+	"msg": "",
+	"count": 2,
+	"data":[
+		{"username":"1001","name":"刘科","type":"总经理","danwei":"腾讯公司","state":"正常"},
+		{"username":"1002","name":"王小平","type":"副总经理","danwei":"腾讯公司","state":"正常"}
+	]
+}
+
+      
